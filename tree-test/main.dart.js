@@ -61884,7 +61884,7 @@ q=new A.tN(r,14,B.EQ,h)
 q.x=new A.E(g)
 q.r=new A.E(4293519849)
 if(r<0||r>1)A.X(A.cv("Percent value must be a double between 0.0 and 1.0, but it's "+A.h(r)))
-r=A.bl(h,q,h,h,h,new A.Y(0,60,0,0),h,h)
+r=A.bl(h,q,h,h,h,new A.Y(0,40,0,0),h,h)
 q=A.fK(new A.b7(10,10))
 p=a1.V(c).f
 o=t.F
@@ -61996,7 +61996,7 @@ a1=a5.V(c).f
 a3=a0?b:b/2
 s=a5.V(c).f
 c=a5.V(c).f
-r=A.bl(e,A.bL("\ub098\uc758 \uacb0\uacfc\ub294?",e,e,e,A.bM(e,e,B.i,e,e,e,e,e,e,e,e,20,e,e,B.W,e,e,!0,e,e,e,e,e,e,e,e),e,e),e,e,e,new A.Y(0,60,0,0),e,e)
+r=A.bl(e,A.bL("\ub098\uc758 \uacb0\uacfc\ub294?",e,e,e,A.bM(e,e,B.i,e,e,e,e,e,e,e,e,20,e,e,B.W,e,e,!0,e,e,e,e,e,e,e,e),e,e),e,e,e,new A.Y(0,40,0,0),e,e)
 q=A.fK(new A.b7(10,10))
 p=a0?b:b/2
 p=A.bl(e,A.eH(A.a([A.bL(A.h($.zs.h(0,f.gih(f)).h(0,"short")),e,e,e,A.bM(e,e,B.i,e,e,e,e,e,e,e,e,16,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e),new A.bJ(new A.Y(5,5,5,5),e,e),A.bL(f.gih(f),e,e,e,A.bM(e,e,B.i,e,e,e,e,e,e,e,e,24,e,e,B.W,e,e,!0,e,e,e,e,e,e,e,e),e,e),new A.bJ(new A.Y(20,20,20,20),e,e),A.CF(A.h($.aci.h(0,f.gih(f))),e,e),new A.bJ(new A.Y(20,20,20,20),e,e),A.bL(A.h($.zs.h(0,f.gih(f)).h(0,"description")),e,e,e,A.bM(e,e,B.i,e,e,e,e,e,e,e,e,16,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],a4),B.L,B.b0,B.I),e,new A.cL(new A.E(d),e,e,q,e,e,B.V),e,e,new A.Y(30,30,30,30),p)
@@ -62049,7 +62049,7 @@ r=this.w>=1?A.bL(".",n,n,n,A.bM(n,n,B.i,n,n,n,n,n,n,n,n,24,n,n,B.W,n,n,!0,n,n,n,
 q=this.w>=2?A.bL(".",n,n,n,A.bM(n,n,B.i,n,n,n,n,n,n,n,n,24,n,n,B.W,n,n,!0,n,n,n,n,n,n,n,n),n,n):A.bL("",n,n,n,n,n,n)
 p=this.w>=3?A.bL(".",n,n,n,A.bM(n,n,B.i,n,n,n,n,n,n,n,n,24,n,n,B.W,n,n,!0,n,n,n,n,n,n,n,n),n,n):A.bL("",n,n,n,n,n,n)
 o=t.F
-return A.Ff(A.bl(n,A.eH(A.a([A.vd(A.a([s,r,q,p],o),B.L,B.b0,B.I),new A.bJ(new A.Y(10,10,10,10),n,n),A.CF("images/tree_loading.gif",n,n)],o),B.L,B.aG,B.I),new A.E(4281351770),n,m.a.b,n,new A.Y(20,200,20,0),l.a.a),n,n)}}
+return A.Ff(A.bl(n,A.eH(A.a([A.vd(A.a([s,r,q,p],o),B.L,B.b0,B.I),new A.bJ(new A.Y(10,10,10,10),n,n),A.CF("images/tree_loading.gif",n,n)],o),B.L,B.aG,B.I),new A.E(4281351770),n,m.a.b,n,new A.Y(20,130,20,0),l.a.a),n,n)}}
 A.a6Y.prototype={
 $1(a){var s=this.a
 s.a7(new A.a6X(s))
