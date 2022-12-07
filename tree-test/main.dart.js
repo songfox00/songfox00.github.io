@@ -61827,7 +61827,7 @@ A.a_h.prototype={}
 A.lZ.prototype={
 af(){return new A.Jd(B.k)}}
 A.Jd.prototype={
-O(a){var s=null,r=a.V(t.w).f.a.a,q=A.bl(s,A.bL("\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ud2b8\ub9ac \uc131\ud5a5\ud14c\uc2a4\ud2b8",s,s,s,A.bM(s,s,B.i,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.ba,s),s,s,s,new A.Y(15,15,15,15),s,s),p=A.bl(s,A.bL("\ub098\ub294 \uc5b4\ub5a4 \ud2b8\ub9ac\uc77c\uae4c\n\uc2dc\uc791\ud574\ubcfc\uae4c\uc694?",s,s,s,A.bM(s,s,B.i,s,s,s,s,s,s,s,s,24,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.ba,s),s,s,s,s,s,s),o=A.bl(s,A.CF("images/bbosiraegi.png",200,200),s,s,s,s,s,s),n=r<900?r:r/2,m=t.F
+O(a){var s=null,r=a.V(t.w).f.a.a,q=A.bl(s,A.bL("\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ud2b8\ub9ac \uc131\ud5a5\ud14c\uc2a4\ud2b8",s,s,s,A.bM(s,s,B.i,s,s,s,s,s,s,s,s,17,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.ba,s),s,s,s,new A.Y(15,15,15,15),s,s),p=A.bl(s,A.bL("\ub098\ub294 \uc5b4\ub5a4 \ud2b8\ub9ac\uc77c\uae4c\n\uc2dc\uc791\ud574\ubcfc\uae4c\uc694?",s,s,s,A.bM(s,s,B.i,s,s,s,s,s,s,s,s,24,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.ba,s),s,s,s,s,s,s),o=A.bl(s,A.CF("images/bbosiraegi.png",200,200),s,s,s,s,s,s),n=r<900?r:r/2,m=t.F
 return A.Ct(s,A.Ff(A.bl(s,A.eH(A.a([A.bl(s,A.eH(A.a([q,p,new A.bJ(new A.Y(15,15,15,15),s,s),o,new A.bJ(new A.Y(20,20,20,20),s,s),A.bl(s,new A.BM(new A.a4X(a),s,s,s,A.adv(s,s,new A.E(4290261783),s,s,s,s,s,s,s,s,s,s,s,new A.cI(A.zX(10),B.p),s,s,s,s),B.E,s,!1,s,A.bl(s,A.bL("\uc2dc\uc791\ud558\uae30",s,s,s,A.bM(s,s,B.i,s,s,s,s,s,s,s,s,18,s,s,B.W,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,s,s,new A.Y(0,12,0,12),s),s),s,s,s,s,s,n)],m),B.L,B.aG,B.I),s,s,s,s,s,s)],m),B.L,B.b0,B.I),s,new A.cL(s,new A.Ba(new A.nv("images/login_BG.png",s,s),B.vU),s,s,s,s,B.V),s,s,new A.Y(20,0,20,0),r),s,s),B.aQ,!1,s,s,s,s,s,s,s,s,s,s,new A.a4Y(a),s,s,s,s,s,s)}}
 A.a4Y.prototype={
 $0(){A.adC(this.a).zu()},
@@ -61844,7 +61844,7 @@ A.a4W.prototype={
 $1(a){return new A.mH(null)},
 $S:376}
 A.Do.prototype={
-O(a){return new A.u2(new A.vH(null),A.am(["/login",new A.W4()],t.N,t.hw),!1,null)}}
+O(a){return new A.u2(new A.vH(null),A.am(["/start",new A.W4()],t.N,t.hw),!1,null)}}
 A.W4.prototype={
 $1(a){return new A.lZ(null)},
 $S:377}
@@ -61861,7 +61861,7 @@ return A.a0($async$u4,r)},
 a2q(){var s,r=this.c
 r.toString
 r=A.up(r)
-s=r.pV("/login",null,t.X)
+s=r.pV("/start",null,t.X)
 s.toString
 s=A.abq(s,B.ky,null)
 J.ajE(B.b.Iy(r.e,A.a9s()),null,!0)
@@ -61884,7 +61884,7 @@ q=new A.tN(r,14,B.EQ,h)
 q.x=new A.E(g)
 q.r=new A.E(4293519849)
 if(r<0||r>1)A.X(A.cv("Percent value must be a double between 0.0 and 1.0, but it's "+A.h(r)))
-r=A.bl(h,q,h,h,h,new A.Y(0,40,0,0),h,h)
+r=A.bl(h,q,h,h,h,new A.Y(0,30,0,0),h,h)
 q=A.fK(new A.b7(10,10))
 p=a1.V(c).f
 o=t.F
@@ -61904,7 +61904,7 @@ k=A.lR(!1,!0,A.bl(h,A.bL($.a8S[i.d-1][2],h,h,h,A.bM(h,h,new A.E(d),h,h,h,h,h,h,h
 q=A.fK(new A.b7(10,10))
 n=i.w?new A.E(e):new A.E(f)
 j=a1.V(c).f
-s=A.bl(h,A.aeT(A.eH(A.a([r,new A.bJ(new A.Y(15,15,15,15),h,h),p,new A.bJ(new A.Y(25,25,25,25),h,h),m,new A.bJ(new A.Y(11,11,11,11),h,h),l,new A.bJ(new A.Y(11,11,11,11),h,h),k,new A.bJ(new A.Y(11,11,11,11),h,h),A.lR(!1,!0,A.bl(h,A.bL($.a8S[i.d-1][3],h,h,h,A.bM(h,h,new A.E(d),h,h,h,h,h,h,h,h,16,h,h,B.W,h,h,!0,h,h,h,h,h,h,h,h),B.ba,h),h,new A.cL(n,h,h,q,h,h,B.V),h,new A.Y(0,0,0,40),new A.Y(20,19,20,19),j.a.a),h,!0,h,h,h,h,h,h,h,h,h,new A.a6T(i),h,h,h,h)],o),B.L,B.aG,B.I)),h,h,s.a.b-100,h,h,h)
+s=A.bl(h,A.aeT(A.eH(A.a([r,new A.bJ(new A.Y(15,15,15,15),h,h),p,new A.bJ(new A.Y(20,20,20,20),h,h),m,new A.bJ(new A.Y(11,11,11,11),h,h),l,new A.bJ(new A.Y(11,11,11,11),h,h),k,new A.bJ(new A.Y(11,11,11,11),h,h),A.lR(!1,!0,A.bl(h,A.bL($.a8S[i.d-1][3],h,h,h,A.bM(h,h,new A.E(d),h,h,h,h,h,h,h,h,16,h,h,B.W,h,h,!0,h,h,h,h,h,h,h,h),B.ba,h),h,new A.cL(n,h,h,q,h,h,B.V),h,new A.Y(0,0,0,40),new A.Y(20,19,20,19),j.a.a),h,!0,h,h,h,h,h,h,h,h,h,new A.a6T(i),h,h,h,h)],o),B.L,B.aG,B.I)),h,h,s.a.b-100,h,h,h)
 j=A.fK(new A.b7(10,10))
 r=i.z?new A.E(g):B.E5
 c=a1.V(c).f
@@ -61996,7 +61996,7 @@ a1=a5.V(c).f
 a3=a0?b:b/2
 s=a5.V(c).f
 c=a5.V(c).f
-r=A.bl(e,A.bL("\ub098\uc758 \uacb0\uacfc\ub294?",e,e,e,A.bM(e,e,B.i,e,e,e,e,e,e,e,e,20,e,e,B.W,e,e,!0,e,e,e,e,e,e,e,e),e,e),e,e,e,new A.Y(0,40,0,0),e,e)
+r=A.bl(e,A.bL("\ub098\uc758 \uacb0\uacfc\ub294?",e,e,e,A.bM(e,e,B.i,e,e,e,e,e,e,e,e,20,e,e,B.W,e,e,!0,e,e,e,e,e,e,e,e),e,e),e,e,e,new A.Y(0,30,0,0),e,e)
 q=A.fK(new A.b7(10,10))
 p=a0?b:b/2
 p=A.bl(e,A.eH(A.a([A.bL(A.h($.zs.h(0,f.gih(f)).h(0,"short")),e,e,e,A.bM(e,e,B.i,e,e,e,e,e,e,e,e,16,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e),new A.bJ(new A.Y(5,5,5,5),e,e),A.bL(f.gih(f),e,e,e,A.bM(e,e,B.i,e,e,e,e,e,e,e,e,24,e,e,B.W,e,e,!0,e,e,e,e,e,e,e,e),e,e),new A.bJ(new A.Y(20,20,20,20),e,e),A.CF(A.h($.aci.h(0,f.gih(f))),e,e),new A.bJ(new A.Y(20,20,20,20),e,e),A.bL(A.h($.zs.h(0,f.gih(f)).h(0,"description")),e,e,e,A.bM(e,e,B.i,e,e,e,e,e,e,e,e,16,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e,e)],a4),B.L,B.b0,B.I),e,new A.cL(new A.E(d),e,e,q,e,e,B.V),e,e,new A.Y(30,30,30,30),p)
